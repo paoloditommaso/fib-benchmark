@@ -2,9 +2,9 @@
 
 A performance comparison between C, Java, Groovy and Python using a very simple Fibonacci implementation. 
 
-Calculating Fibonacci for number 500'000'000 .
 
 Processor: `Intel core i7 2.7 GHz`
+
 Operating System: `Apple OS X 10.8`
 
 
@@ -13,6 +13,10 @@ Operating System: `Apple OS X 10.8`
   C   | C o3   | Java 6 | Java 7 | Groovy | Groovy S | Python  |
 -----:|-------:|-------:|-------:|-------:|---------:|--------:|   
 1.2049| 0.2806 | 0.2900 | 0.2821 | 1.0586 | 0.2889   | 110.0   |
+
+
+Numbers show the execution time in seconds to calculate Fibonacci for 500'000'000.
+
 
 
 
